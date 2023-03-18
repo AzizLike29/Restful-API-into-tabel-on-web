@@ -1,4 +1,4 @@
-<center><h1> Database design view </h1></center>
+<h1> Database design view </h1>
 
 http://localhost/projects/
 
