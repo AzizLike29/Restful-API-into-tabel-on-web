@@ -70,6 +70,7 @@ $data = json_decode($Response, true);
                 </tbody>
             </table>
         </div>
+        <!-- Footer Copyright -->
         <table class="table">
             <thead class="table-success">
                 <tr class="text-center">
