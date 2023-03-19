@@ -29,8 +29,8 @@ $data = json_decode($Response, true);
                     <img src="Gambar/Tut Wuri Handayani.png" alt="Tut Wuri Handayani" width="65" height="65">
                 </div>
                 <!-- Teks pada php -->
-                <a href="https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1" style="color: #043927; margin-left: 40px;">Badan Pusat Statistik</a><br>
-                <small class="text-light" style="margin-left: 40px;">Berdasarkan Data Tahun 2020 dan 2021</small>
+                <a href="https://www.bps.go.id/indikator/indikator/view_data_pub/0000/api_pub/cmdTdG5vU0IwKzBFR20rQnpuZEYzdz09/da_04/1" style="color: #043927; margin-left: 50px;">Badan Pusat Statistik</a><br>
+                <small class="text-light" style="margin-left: 50px;">Berdasarkan Data Tahun 2020 dan 2021</small>
             </h4>
         </div>
     </div>
