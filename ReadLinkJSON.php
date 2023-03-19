@@ -54,6 +54,7 @@ $data = json_decode($Response, true);
                         <th>Jumlah Mahasiswa di Bawah KemristekDikti Negeri dan Swasta</th>
                     </tr>
                 </thead>
+                <!-- Masukan data dalam tabel database -->
                 <tbody class="text-center">
                     <?php foreach ($data as $row) : ?>
                         <tr class="table-secondary">
